@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Learn Machine Learning",
+	"description": "Learn Machine Learning concepts each time you open a new tab.",
+	"version": "1",
+	"author": "Rishabh Misra",
+	"browser_action": {
+		"default_icon": "tab-icon.png",
+		"default_title": "Learn Machine Learning"
+	},
+	"chrome_url_overrides" : {
+		"newtab": "learn.html"
+	},
+	"permissions": ["activeTab"]
+}
