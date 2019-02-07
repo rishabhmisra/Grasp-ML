@@ -8,4 +8,13 @@
 	padding-top: 2em;
 	padding-bottom: 2em;
 	padding-right: 2em;
+	border-radius: 25px;
+	font-size: large;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	line-height: 30px;
+}
+
+.card_general ul {
+	padding-top: 0.5em;
+	line-height: 35px;
 }
