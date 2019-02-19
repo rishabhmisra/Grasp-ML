@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Atma');
 
 .card_general {
-	width: 69%;
+	width: 62%;
 	/*height: 80%*/
 	margin: 5px auto;
 	background-image: url('flash_card_background_v5.png');
@@ -10,7 +10,7 @@
 	/*margin-bottom: 2em;*/
 	padding-top: 5em;
 	padding-bottom: 2em;
-	padding-right: 2em;
+	padding-right: 5em;
 	/*border-radius: 25px;*/
 	font-size: large;
 	font-family: 'Atma';font-size: 22px;
