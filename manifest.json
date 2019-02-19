@@ -14,7 +14,7 @@
      "css": ["style.css"],
      "matches": ["https://ajax.googleapis.com/*", "https://cdnjs.cloudflare.com/*"]
    	}],
-   	"content_security_policy": "script-src 'self' https://ajax.googleapis.com https://cdnjs.cloudflare.com; object-src 'self'",
+   	"content_security_policy": "script-src 'self' https://ajax.googleapis.com https://cdnjs.cloudflare.com 'unsafe-eval'; object-src 'self'",
 	"chrome_url_overrides": {
 		"newtab": "index.html"
 	},
