@@ -9,7 +9,7 @@
 		"default_title": "Learn Machine Learning"
 	},
 	"chrome_url_overrides" : {
-		"newtab": "learn.html"
+		"newtab": "index.html"
 	},
 	"permissions": ["activeTab"]
 }
